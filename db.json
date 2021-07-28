@@ -1,0 +1,18 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create a new homePage Banner",
+      "details": "so much hard work to get to this point ",
+      "complete": false,
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Make Marketing Email",
+      "details": "so much hard work to get to this point ",
+      "complete": false,
+      "completed": true
+    }
+  ]
+}
